@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 I'm an intermediate programmer at the moment. My main languages are *C#* and *Java*.
 
