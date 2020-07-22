@@ -9,3 +9,5 @@ There isn't much here at the moment, so feel free to check back later!
   - Become more adept with Java.
   - Work more with APIs and libraries.
   - Learn Kotlin.
+
+Have a good day!
