@@ -5,7 +5,7 @@ I'm a beginner programmer currently! My main programming languages right now are
 I'm also trying to learn more about computer science in general, so I have a greater understanding of underlying systems (and hopefully feel more confident 😆)<br>
 Trying to fix my issue of having no idea where to go! <br>
 
-There isn't much here right now, but feel free to check back later!
+There isn't much here right now, but feel free to check back later! (If you would want to, for some reason! I don't judge!)
 
 ### <ins>My Current Tasks</ins> ###
   - Finish TheOdinProject course
