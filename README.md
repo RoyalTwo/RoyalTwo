@@ -1,14 +1,12 @@
 ### Hi there! 👋
 
-I'm a beginner programmer currently! My main programming languages right now are JS and Python, but I hope to learn C++ soon as well 😊
+At the moment I primarily use JavaScript, but I'm also in the process of learning Go and C++. 😊
 
 I'm also trying to learn more about computer science in general, so I have a greater understanding of underlying systems :D
 
-There isn't much here right now, but feel free to check back later! (If you would want to, for some reason! I don't judge!)
-
 ### <ins>Current Goals</ins> ###
-  - Learn more about back-end development
-  - Learn Kotlin/Java, and apply to creating *Minecraft* mods potentially
-  - Learn C++ and potentially C, to help with my understanding of underlying systems!
+  - Work on v2 of Eris (messaging app)
+  - Become proficient in Go/C++
+  - Try making small games as well
 
 I'm not very good at ending things so.... have a good day? Yeah, have a good day!!
