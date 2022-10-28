@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-At the moment I primarily use JavaScript, but I'm also in the process of learning Go and C++. 😊
+At the moment I primarily use JavaScript, but I'm also in the process of learning Go and Prolog 😊
 
 I'm also trying to learn more about computer science in general, so I have a greater understanding of underlying systems :D
 
